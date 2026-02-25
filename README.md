@@ -45,4 +45,4 @@ This project applies unsupervised learning techniques to identify segments of th
 
 ## License
 
-This project is part of the Udacity Data Science Nanodegree program.
+This project is part of the Udacity **Intro to Machine Learning with TensorFlow Nanodegree Program**.
